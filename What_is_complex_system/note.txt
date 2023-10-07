@@ -1,0 +1,34 @@
+################################################ System vs Complex System ################################################
+
+System: A group of interacting or interrelated entities that form a unified whole.
+    - key points:
+        1. a group of entities: System is group of entities. Implies more than one?
+        2. unified whole: If the group of entities are together, then it should form something new.
+        3. interacting: these entities interact one another.
+
+Complex System: A system composed of many components (sub-system) which may interact each other. 
+    - Key points:
+        1. many components: Instead of group of entities, it emphasize on components. Entities that a system is comprised as. 
+        2. interact with each other: more emphasize on interaction.
+        3. sub-system: components are also sub-system.  
+
+
+################################################ Example of Complex System ################################################
+Example of system & Complex system --> solar system.
+
+Solar system is a collection of entities (mercury, earth, mars etc..)
+It interact with one another using gravity (physical interaction)
+
+We also could zoom in to one of the entities, for example, the earth. 
+earth is one of the entities, but itself is also complex system. 
+It have sub-system such as sea, amazon, cloud etc..
+
+
+Almost everything is a system. So.... what is NOT a system?
+
+################################################ Example of NOT System ################################################
+An arbitrary collection of entities is NOT (necessary) a system. it might be...
+
+eg. MacBook, Spoon, and Candle. Just because I put them into one collection doesn't mean it's a system. 
+
+--> if it's something interesting, then it is a system.
