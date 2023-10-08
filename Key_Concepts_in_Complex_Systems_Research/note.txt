@@ -1,0 +1,27 @@
+################################################ Complexity ################################################
+Complexity: Complex systems don't yield to analytic predictability like simple isolated systems. 
+
+Example: Calculate the ball that is free falling from building. -> Can predict where it is, but need bit of analysis. 
+
+We can't predict the place of sun like millions years from now. The only thing we can is just to wait millions years and see. 
+There's no way we can predict it. 
+
+But, why??? Because complex system displays what we call non-linearity. 
+
+################################################ Non-Linearity ################################################
+Non-linearity: Complex system have (non-linear) differences depending on differences in context or environmental conditions. 
+
+Every system in this world has a context or environmental conditions. And they are important to the behavior of the complex system. 
+non-linear: one condition and another condition that is similar to each other, given amount of time, the differences between tow is no longer a linear function.
+
+These non linear difference is called Chaos. 
+
+################################################ Chaos ################################################
+Chaos: The behavior of a complex system is sensitive to small differences in initial conditions. 
+
+
+################################################ Emergence and Self-Organization ################################################
+Emergence: quote from Aristotle says "the whole is greater than the sum of its parts." like duh 🙄
+
+Self-organization: The ability for order to emerge from the chaos. 
+            -> In the chaotic environment, among the chaos order can arise spontaneously. Then it can organize themselves into simple system.
