@@ -1,0 +1,33 @@
+################################################ Dynamical Systems ################################################
+It is a subset of complex systems research. 
+
+Dynamical systems: The mathematical heavy field. It studies the dynamic (changes over time) of complex systems. 
+
+In this field, the concept of attractor is state or set of state that complex systems tends to evolve over time. 
+
+Example: Pendulum swinging -> attractor state can be the pendulum at rest. Bc it tends to slow down (attracted to slow down, evolve to rest) over time. 
+When system is attracted to a single state, we call it a fixed-point attractor.
+
+
+################################################ Fixed-pointer ################################################
+
+FIXED-POINTER IS A SINGLE STATE. Like jump (try to escape from attractor, earth) 
+An attractor's basin of attraction is the set of initial states that evolve to that attractor. 
+
+Positive (negative) feedback occurs when the occurrence of an event increases (decreases) the likelihood or number of occurrences of the same event in the future. 
+
+Example: Fixed-point attractor -> Colorado river. Basin of attraction -> any rain that falls within the Grand Canyon. 
+	 So the any rain will eventually be part of Colorado river. 
+	 Positive Feedback: the river used to be just a narrow line of water. Over time, it dig out deeper path. And that increased the likelihood that more water would flow down that path. 
+
+BUT!!!!! Most attracts are not fixed-point attractors. It is more likely that attractors repeats a series of states. We call it LIMIT CYCLE.
+
+################################################ Limit Cycle ################################################
+Limit Cycle: An attractor that repeats a set of states. 
+
+Example: Solar systems -> Planet repeatedly orbits around sun. Or season repeating, sates of season changes due to earth rotates, and earth orbits around sun. 
+
+In a feud of dynamical systems there's also a chaos. And if it's the case, then the attractor we will get won't be simple fixed-point or simple cycle. We call those attractor a FRACTAL STRUCTURE
+
+################################################ Fractal Structure ################################################ ??? 
+Fractal Structure: Something that has same structure or repeated structure at different scales.  Strange attractor has a fractal structure. If we zoom-in our out infinitely, we will see the same structure. 
